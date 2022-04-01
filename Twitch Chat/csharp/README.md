@@ -1,1 +1,1 @@
-[Readme in project](IrcClient/README.md)
+# Twitch Chat Bot - CSharp
