@@ -1,10 +1,11 @@
 const tmi = require('tmi.js');
 
 // Define configuration options
+// To get oauth token: https://twitchapps.com/tmi/
 const opts = {
   identity: {
     username: <BOT_USERNAME>,
-    password: <OAUTH_TOKEN>
+    password: <OAUTH_TOKEN> 
   },
   channels: [
     <CHANNEL_NAME>
