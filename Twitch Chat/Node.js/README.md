@@ -1,4 +1,4 @@
 # Twitch chat bot - Node.js
 
 Prerequisites: 
-´´´npm install tmi.js´´´
+```npm install tmi.js```
