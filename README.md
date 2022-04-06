@@ -31,6 +31,8 @@ Below you'll also find the teams and the schedules for the day.
 - Fork [OBSConnector](/OBSConnector/) and set up the connection between ServiceBus and OBS locally
 - Create an application of your choice that posts something into the ServiceBus, which is received and makes an action in OBS
 
+*Note*: The communication over ServiceBus should always follow the standard set in the [Example file](/CommunicationModel_Example.json)
+
 ### Task 2
 - Integrate The application of your choice to a third party API to enrich the data in some way
 

@@ -1,0 +1,14 @@
+{
+    "id": "123",
+    "command": "CommandName",
+    "value": "Value",
+    "Parameters":
+    [
+        {
+            "key": "value"
+        },
+        {
+            "key": "value"
+        }
+    ]
+}
