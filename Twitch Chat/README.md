@@ -3,3 +3,5 @@
 Twitch chat is based on the irc protocol
 
 Here we will provide some example code for IRC clients in different languages
+
+[Documentation](https://dev.twitch.tv/docs/irc)
