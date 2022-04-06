@@ -1,6 +1,8 @@
 # Twitch Hackathon 2022
 
-These folders will contain example code that could be useful for you to create the different applications in your setup
+Welcome to the hackathon!
+These folders will contain example code that could be useful for you to create the different applications in your setup.
+Below you'll also find the teams and the schedules for the day.
 
 ## Teams
 
@@ -20,6 +22,8 @@ These folders will contain example code that could be useful for you to create t
 *Mentor*: Barnabas Davoti
 
 ## Tasks 
+
+![Architecture model](/TwitchHackathon2022.png "Architecture model")
 
 ### Task 1
 - Get OBS installed and up and running - [Download](https://obsproject.com)
