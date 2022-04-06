@@ -38,18 +38,18 @@ These folders will contain example code that could be useful for you to create t
 
 ## Schedule
 ### Day 1
-08:00 - Transport from Lysaker
-10:00 - Initial brainstorming - divide into teams and get information about the tasks
-12:00 - Lunch
-13:00 - Coding time!
-18:00 - Take a break, get ready for dinner
-19:00 - Dinner!
-Late - Social, beers and just getting to know eachother! (Note: We'll get up early day 2!)
+08:00 - Transport from Lysaker<br>
+10:00 - Initial brainstorming - divide into teams and get information about the tasks<br>
+12:00 - Lunch<br>
+13:00 - Coding time!<br>
+18:00 - Take a break, get ready for dinner<br>
+19:00 - Dinner!<br>
+Late - Social, beers and just getting to know eachother! (Note: We'll get up early day 2!)<br>
 
 ### Day 2
-08:00 - Breakfast
-09:00 - Let's code some more!
-12:00 - Lunch
-13:00 - Final coordination and panic coding
-15:00 - Broadcast! Let's put on a show!
-17:00 - Time to go home :)
+08:00 - Breakfast<br>
+09:00 - Let's code some more!<br>
+12:00 - Lunch<br>
+13:00 - Final coordination and panic coding<br>
+15:00 - Broadcast! Let's put on a show!<br>
+17:00 - Time to go home :)<br>
