@@ -35,3 +35,21 @@ These folders will contain example code that could be useful for you to create t
 
 ### Bonus task
 - Set up more than one external application to integrate with your stream.
+
+## Schedule
+### Day 1
+08:00 - Transport from Lysaker
+10:00 - Initial brainstorming - divide into teams and get information about the tasks
+12:00 - Lunch
+13:00 - Coding time!
+18:00 - Take a break, get ready for dinner
+19:00 - Dinner!
+Late - Social, beers and just getting to know eachother! (Note: We'll get up early day 2!)
+
+### Day 2
+08:00 - Breakfast
+09:00 - Let's code some more!
+12:00 - Lunch
+13:00 - Final coordination and panic coding
+15:00 - Broadcast! Let's put on a show!
+17:00 - Time to go home :)
