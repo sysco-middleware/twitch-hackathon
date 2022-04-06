@@ -24,7 +24,7 @@ These folders will contain example code that could be useful for you to create t
 ### Task 1
 - Get OBS installed and up and running - [Download](https://obsproject.com)
 - Install OBS Websockets [Download](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
-- Fork OBSConnector and set up the connection between ServiceBus and OBS locally
+- Fork [OBSConnector](/OBSConnector/) and set up the connection between ServiceBus and OBS locally
 - Create an application of your choice that posts something into the ServiceBus, which is received and makes an action in OBS
 
 ### Task 2
