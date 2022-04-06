@@ -39,6 +39,7 @@ These folders will contain example code that could be useful for you to create t
 ## Schedule
 ### Day 1
 08:00 - Transport from Lysaker<br>
+09:00 - ish... Checkin!<br>
 10:00 - Initial brainstorming - divide into teams and get information about the tasks<br>
 12:00 - Lunch<br>
 13:00 - Coding time!<br>
