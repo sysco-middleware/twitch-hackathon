@@ -25,7 +25,14 @@ Below you'll also find the teams and the schedules for the day.
 
 ![Architecture model](/TwitchHackathon2022.png "Architecture model")
 
-### Task 1
+## GOAL
+Create a infrastructure and applications to support a 10 minute stream in Twitch!
+
+## Requirements
+- You must integrate at least one front-facing service to OBS (streaming software) through a central hub/bus (e.g. Azure Service Bus - will be provided)
+- Infrastructure and code must run on Microsoft Azure
+
+### Recommended step 1
 - Get OBS installed and up and running - [Download](https://obsproject.com)
 - Install OBS Websockets [Download](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
 - Fork [OBSConnector](/OBSConnector/) and set up the connection between ServiceBus and OBS locally
@@ -35,19 +42,19 @@ Below you'll also find the teams and the schedules for the day.
 <br>
 If you need to transfer more data than supported by ServiceBus (256 KB), you should store the data in a Data Store and just use ServiceBus to alert services about the location of the data.
 
-### Task 2
+### Recommended step 2
 - Integrate The application of your choice to a third party API to enrich the data in some way
     - Use the list at the end of this page as an inspiration
 
-### Task 3
+### Recommended step 3
 - Set up full CI/CD pipeline for your applications
     - Use standard github workflows, Cake or whatever framework you choose to deploy the services to Azure
 
-### Bonus task
+### Bonus
 - Set up more than one external application to integrate with your stream.
     - E.g. if you have a web page as front end, try to implement twitch chat integration as well. 
 
-### Bonus task 2 - Extra points
+### Bonus 2 - Extra points
 - ...will be revealed later...
 
 ## Schedule
