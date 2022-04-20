@@ -26,7 +26,7 @@ Below you'll also find the teams and the schedules for the day.
 ![Architecture model](/TwitchHackathon2022.png "Architecture model")
 
 ## GOAL
-Create a infrastructure and applications to support a 10 minute stream in Twitch!
+Create a infrastructure and applications to support a 10-15 minute stream on Twitch!
 
 ## Requirements
 - You must integrate at least one front-facing service to OBS (streaming software) through a central hub/bus (e.g. Azure Service Bus - will be provided)
