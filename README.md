@@ -7,35 +7,35 @@ Below you'll also find the teams and the schedules for the day.
 ## Teams
 
 ### Team 1
-*Mentor*: Pål Bendiksen
-Rohini Kawale
-Priyanka Gupta
-Lars Gøran Forwall hansen
+- *Team lead*: Pål Bendiksen
+- Rohini Kawale
+- Priyanka Gupta
+- Lars Gøran Forwall hansen
 
 ### Team 2
-*Mentor*: Arturo Viveros
-Vitaly Moshkov
-Vijay Jadhav
-Brahmareddy Yaram
-Soroush Ghodrat
+- *Team lead*: Arturo Viveros
+- Vitaly Moshkov
+- Vijay Jadhav
+- Brahmareddy Yaram
+- Soroush Ghodrat
 
 ### Team 3
-*Mentor*: Dalibor Blazevic
-Madeeha Khan
-Siva Kumar Meejuru
-Sarah E Rayfuse
+- *Team lead*: Dalibor Blazevic
+- Madeeha Khan
+- Siva Kumar Meejuru
+- Sarah E Rayfuse
 
 ### Team 4
-*Mentor*: Prakhar Srivastav
-Agnija Bako
-Silje Møller
-Sureshram Chandramohan
+- *Team lead*: Prakhar Srivastav
+- Agnija Bako
+- Silje Møller
+- Sureshram Chandramohan
 
 ### Team 5
-*Mentor*: Barnabas Davoti
-Fredrik Lygre Bergesen
-Ole Jørgen Hongset
-Jan Greger Hemb
+- *Team lead*: Barnabas Davoti
+- Fredrik Lygre Bergesen
+- Ole Jørgen Hongset
+- Jan Greger Hemb
 
 ## Tasks 
 
