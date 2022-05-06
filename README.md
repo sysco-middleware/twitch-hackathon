@@ -52,7 +52,8 @@ Create a infrastructure and applications to support a 10-15 minute stream on Twi
 ### Recommended step 1
 - Get OBS installed and up and running - [Download](https://obsproject.com)
 - Install OBS Websockets [Download](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
-- Fork [OBSConnector](/OBSConnector/) and set up the connection between ServiceBus and OBS locally
+- Use an adapter of your language choice to connect to OBS [Download](https://github.com/obsproject/obs-websocket/blob/4.x-current/README.md)
+    - Connect this adapter to ServiceBus, or the central hub of your choice so that this is the trigger/input and output for the adapter.
 - Create an application of your choice that posts something into the ServiceBus, which is received and makes an action in OBS
 
 *Note*: The communication over ServiceBus should always follow the standard set in the [Example file](/CommunicationModel_Example.json)
