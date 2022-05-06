@@ -9,7 +9,6 @@ Below you'll also find the teams and the schedules for the day.
 ### Team 1
 - *Team lead*: Pål Bendiksen
 - Rohini Kawale
-- Priyanka Gupta
 - Lars Gøran Forwall hansen
 - Bidyendu Dey
 
