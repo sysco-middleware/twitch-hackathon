@@ -11,6 +11,7 @@ Below you'll also find the teams and the schedules for the day.
 - Rohini Kawale
 - Priyanka Gupta
 - Lars Gøran Forwall hansen
+- Bidyendu Dey
 
 ### Team 2
 - *Team lead*: Arturo Viveros
