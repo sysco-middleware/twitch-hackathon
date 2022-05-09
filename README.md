@@ -11,6 +11,7 @@ Below you'll also find the teams and the schedules for the day.
 - Rohini Kawale
 - Lars Gøran Forwall hansen
 - Bidyendu Dey
+- Sureshram Chandramohan
 
 ### Team 2
 - *Team lead*: Arturo Viveros
@@ -24,18 +25,14 @@ Below you'll also find the teams and the schedules for the day.
 - Madeeha Khan
 - Siva Kumar Meejuru
 - Sarah E Rayfuse
-
-### Team 4
-- *Team lead*: Prakhar Srivastav
-- Agnija Bako
-- Silje Møller
-- Sureshram Chandramohan
+- Prakhar Srivastav
 
 ### Team 5
 - *Team lead*: Barnabas Davoti
 - Fredrik Lygre Bergesen
 - Ole Jørgen Hongset
 - Jan Greger Hemb
+- Silje Møller
 
 ## Tasks 
 
