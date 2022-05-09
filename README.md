@@ -10,14 +10,14 @@ Below you'll also find the teams and the schedules for the day.
 - *Team lead*: Pål Bendiksen
 - Rohini Kawale
 - Lars Gøran Forwall hansen
-- Bidyendu Dey
 - Sureshram Chandramohan
+- Vitaly Moshkov
 
 ### Team 2
 - *Team lead*: Arturo Viveros
-- Vitaly Moshkov
+- Bidyendu Dey
 - Vijay Jadhav
-- Brahmareddy Yaram
+- Ole Jørgen Hongset
 - Soroush Ghodrat
 
 ### Team 3
@@ -30,7 +30,7 @@ Below you'll also find the teams and the schedules for the day.
 ### Team 5
 - *Team lead*: Barnabas Davoti
 - Fredrik Lygre Bergesen
-- Ole Jørgen Hongset
+- Brahmareddy Yaram
 - Jan Greger Hemb
 - Silje Møller
 
